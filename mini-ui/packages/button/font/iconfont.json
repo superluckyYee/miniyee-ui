@@ -1,0 +1,58 @@
+{
+  "id": "3931904",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8094805",
+      "name": "clear",
+      "font_class": "clear",
+      "unicode": "e900",
+      "unicode_decimal": 59648
+    },
+    {
+      "icon_id": "34272964",
+      "name": "保存 2",
+      "font_class": "a-baocun2",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "34272970",
+      "name": "查看",
+      "font_class": "chakan",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "34272973",
+      "name": "对钩",
+      "font_class": "duigou",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "34272977",
+      "name": "标签-双",
+      "font_class": "biaoqian-shuang",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "34272983",
+      "name": "感叹号",
+      "font_class": "gantanhao",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "34273000",
+      "name": "关闭",
+      "font_class": "guanbi",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    }
+  ]
+}
