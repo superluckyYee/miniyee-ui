@@ -1,6 +1,6 @@
 module.exports = {
     // 最开始的/是指向.vuepress/public/的
-    base:'./',
+    base:'/miniyee-ui/',
     lang: 'zh-CN',
     title:'miniyee-ui',
     description: '渴望编写可以用于todolist项目的组件库',
